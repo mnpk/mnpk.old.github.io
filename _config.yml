@@ -1,0 +1,13 @@
+title: 아름다운 날들
+baseurl: ""
+
+date_format: "%d %B %Y"
+
+google_analytics: 'UA-62567372-1'
+disqus_shortname: 'mnpk'
+
+# Build settings
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
