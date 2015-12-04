@@ -2,7 +2,7 @@
 layout: post
 title: 조금씩 다르지만 그것이 크게 다른 날들
 date: 2015-07-07
-published: false
+published: true
 ---
 
 뮤지컬 공연을 보러 갔다. 공연이 끝나고 여주인공과 자리를 하게 되어 평소 궁금했던 것을 물었다.
