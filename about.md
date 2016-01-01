@@ -1,10 +1,9 @@
 ---
 layout:    page
-title:     Dec, 2015
+title:     어바웃
 permalink: /about/
 ---
 
 ![](/images/IMG_0387.png)
-
-mnncat@gmail.com
+Dec, 2015
 
