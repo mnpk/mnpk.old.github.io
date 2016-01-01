@@ -1,6 +1,6 @@
 ---
 layout:    page
-title:     어바웃
+title:     Dec, 2015
 permalink: /about/
 ---
 
