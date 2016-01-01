@@ -53,12 +53,10 @@ footer {
     position: relative;
     margin-top: 4rem;
     .post-header {
-        text-align: center;
         margin-bottom: 0;
     }
     .post-meta {
         margin: 0;
-        text-align: center;
         color: $meta-color;
         font-size: $small-font-size;
         margin-bottom: 1rem;
@@ -79,6 +77,17 @@ footer {
           text-align: center;
         }
     }
+  .post {
+    .post-header {
+        text-align: center;
+    }
+    .post-meta {
+        text-align: center;
+    }
+    .post-footer {
+        margin-bottom: 5rem;
+    }
+}
     footer {
         text-align: center;
     }
