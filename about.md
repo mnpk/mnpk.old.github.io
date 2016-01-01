@@ -4,8 +4,7 @@ title:     어바웃
 permalink: /about/
 ---
 
-![](/images/image.jpg)
+![](/images/IMG_0387.png)
 
-
-mnncat at gmail dot com
+mnncat@gmail.com
 
